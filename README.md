@@ -1,1 +1,2 @@
 SiriusAIFinalVersion.ipynb
+programdescription.pdf
